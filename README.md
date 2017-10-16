@@ -1,10 +1,10 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+# [Use Bootstrap-jekyll](https://primertest.github.io/www/)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Use Bootstrap Jekyll](https://primertest.github.io/www/) is a one page theme for use with jekyll static site
 
 ## Preview
 
-[![Creative Preview](https://lh3.googleusercontent.com/-TTLEkph-lTw/Wd4ECo96QmI/AAAAAAAATvI/tpyHCeCrUBA8x7aaqeYKik6GFXkkuZ-DwCLcBGAs/s1079-e30-rj-v1/pebblebeach.jpg)](https://primertest.github.io/www/)
+[![Pebble Beach](https://lh3.googleusercontent.com/-TTLEkph-lTw/Wd4ECo96QmI/AAAAAAAATvI/tpyHCeCrUBA8x7aaqeYKik6GFXkkuZ-DwCLcBGAs/s1079-e30-rj-v1/pebblebeach.jpg)](https://primertest.github.io/www/)
 
 **[View Live Preview](https://primertest.github.io/www/)**
 
