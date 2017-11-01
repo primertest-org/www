@@ -9,7 +9,11 @@
           <ul class="navbar-nav ml-auto">
             {% for nav in site.data.main-navigation %}
             <li class="nav-item">
+            {% if nav.link contains 'https://'%} 
+              <a class="nav-link js-scroll-trigger" href="{{ nav.link }}">{{ nav.name }}</a>
+            {% else %}
               <a class="nav-link js-scroll-trigger" href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a>
+            {% endif %}
             </li>
             {% endfor %}
           </ul>
