@@ -1,0 +1,33 @@
+application: primershama
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+
+- url: /
+  static_files: static/index.html
+  upload: static/index.html
+  secure: always
+
+- url: /
+  static_dir: static
+  secure: always
+
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+  secure: always
+
+libraries:
+- name: webapp2
+  version: latest
+
+- name: jinja2
+  version: latest
+
+- name: ssl
+  version: latest
+
+#dev_appserver.py --storage_path=~/DAS --port=9999 --admin_port=9998 ~/projects/Xousian-Online
