@@ -5,7 +5,6 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  /*background-image: url('../img/header.jpg');*/
   background-position: center;
   @include background-cover;
   .header-content {
@@ -20,6 +19,7 @@ header.masthead {
         margin-top: 0;
         margin-bottom: 0;
         text-transform: uppercase;
+        text-shadow: 2px 2px #000000;
       }
       hr {
         margin: 30px auto;
