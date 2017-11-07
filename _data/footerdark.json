@@ -1,7 +1,7 @@
 {
 	"company-name": "Yoga Sha",
 	"company-blurb": "It's never too late to be who you were always meant to be...",
-	"links1-name": "Services",
+	"links1-name": "Activities",
 	"links1-links": [
 		{
 			"name": "Group Classes",
@@ -19,15 +19,15 @@
 	"links2-name": "About",
 	"links2-links": [
 		{
-			"name": "Company",
+			"name": "Our School",
 			"link": "#"
 		},
 		{
-			"name": "Team",
+			"name": "Pair Yoga",
 			"link": "#"
 		},
 		{
-			"name": "Careers",
+			"name": "Teacher Training",
 			"link": "#"
 		}
 	]
