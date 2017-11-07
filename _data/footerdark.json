@@ -1,33 +1,33 @@
 {
-	"company-name": "My Company",
-	"company-blurb": "Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel in justo.",
-	"links1-name": "Services",
+	"company-name": "Yoga Sha",
+	"company-blurb": "It's never too late to be who you were always meant to be...",
+	"links1-name": "Activities",
 	"links1-links": [
 		{
-			"name": "Web Design",
+			"name": "Group Classes",
 			"link": "#"
 		},
 		{
-			"name": "Education - Web Site Mangement",
+			"name": "One to One Classes",
 			"link": "#"
 		},
 		{
-			"name": "Web Hosting",
+			"name": "Events",
 			"link": "#"
 		}
 	],
 	"links2-name": "About",
 	"links2-links": [
 		{
-			"name": "Company",
+			"name": "Our School",
 			"link": "#"
 		},
 		{
-			"name": "Team",
+			"name": "Pair Yoga",
 			"link": "#"
 		},
 		{
-			"name": "Careers",
+			"name": "Teacher Training",
 			"link": "#"
 		}
 	]
