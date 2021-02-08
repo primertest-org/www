@@ -2,7 +2,7 @@
 
 [Use Bootstrap Jekyll](https://primertest.github.io/www/) is a one page theme for use with jekyll static site
 
-## Preview
+## Preview NO-GLITCHES
 
 [![Pebble Beach](https://lh3.googleusercontent.com/-TTLEkph-lTw/Wd4ECo96QmI/AAAAAAAATvI/tpyHCeCrUBA8x7aaqeYKik6GFXkkuZ-DwCLcBGAs/s1079-e30-rj-v1/pebblebeach.jpg)](https://primertest.github.io/www/)
 
